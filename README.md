@@ -10,7 +10,7 @@ This repository contains two distinct projects, each with its own specific purpo
 **Details:**  
 For more information about JetFlix, including setup instructions and requirements, please refer to the (https://github.com/MohamedMmahmoudElgendy/JetFlix_Mobile_API_Testing_Automation/blob/main/JetFlix/README.md).
 
-## Project 2: [Api Automation Testing]
+## Project 2: [Api Automation Test]
 **Description:**  
 [Test Three different RestFul APIS]
 
