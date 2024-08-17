@@ -1,0 +1,35 @@
+[
+  {
+    "firstname": "Jim",
+    "lastname": "Brown",
+    "totalprice": 111,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2018-01-01",
+      "checkout": "2019-01-01"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "mohamed",
+    "lastname": "elgendy",
+    "totalprice": 222,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2020-02-02",
+      "checkout": "2021-02-02"
+    },
+    "additionalneeds": "Lunch"
+  },
+  {
+    "firstname": "mostafa",
+    "lastname": "elgendy",
+    "totalprice": 999,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2020-02-02",
+      "checkout": "2021-02-02"
+    },
+    "additionalneeds": "dinner"
+  }
+]

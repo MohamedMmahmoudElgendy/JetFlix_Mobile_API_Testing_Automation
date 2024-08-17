@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="API Test Suite" parallel="false" thread-count="3">
+    <test name="Auth Token, Book, and List Tests">
+        <classes>
+            <!-- Include the TestAuthTokenGeneration class -->
+            <class name="ApiTests.TC01_TestResponseNotEmptyAndTokenGeneration"/>
+
+            <!-- Include the TestBookAdded class -->
+            <class name="ApiTests.TC02_TestBookAddedSuccessfully"/>
+
+            <!-- Include the TestListOfBooks class -->
+            <class name="ApiTests.TC03_TestListOfBooksIsGreaterThanZero"/>
+        </classes>
+    </test>
+</suite>
