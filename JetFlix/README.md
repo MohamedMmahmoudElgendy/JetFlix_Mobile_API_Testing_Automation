@@ -1,8 +1,8 @@
-# ** The main Frameworks included in the project:**
+#  _The main Frameworks included in the project:_
         Appium
         TestNG
 
 
 
-**Project Design:**
+#_Project Design:_
     Page Object Model (POM) design pattern
